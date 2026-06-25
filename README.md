@@ -25,4 +25,6 @@ This project presents an interactive Power BI dashboard built using the Global S
 - Data Visualization
 
 ## 📷 Dashboard Preview
-See the uploaded screenshot in this repository.
+
+![Dashboard Preview](dashboard-preview.png)
+
